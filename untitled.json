@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"untitled.json#jump1"
+                 "value":"untitled.json#land1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"untitled.json#jump2"
+                 "value":"untitled.json#land2"
                 }],
          "type":"tilelayer",
          "visible":true,
